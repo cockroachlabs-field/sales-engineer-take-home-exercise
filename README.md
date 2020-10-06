@@ -18,7 +18,7 @@ You can spend as much time as you’d like working on this exercise, but if you 
 
 - Demonstrate a complex failure scenario and how the database manages resilience (K8s, multi-cloud, multi-dc, etc)
 - Integrate a 3rd party application of your choice (a BI dashboard, an ETL tool, Monitoring etc) 
-- Build an app in the language of your choice that uses CRDB as it’s backend
+- Build an app in the language of your choice that uses CRDB as the backend (particularly one not covered by our docs)
 - Anything else you think would highlight your unique skill-set
 - Other ideas for extra credit are included in-line below
 
@@ -76,7 +76,8 @@ At a minimum, please cover the following topics:
 - Demonstrate your working code example
 - Present any extra credit activities that highlight your unique skills
 
-The format of the presentation should be in alignment with the role for which you’re interviewing.  That may be some form of a live demo, a presentation, or something completely different.
+The format of the presentation should be in alignment with the role for which you’re interviewing.  That may be some form of a live demo, a presentation, or something completely different.  This is your chance to differentiate yourself.
+
 
 ## Appendix
 ### Useful Links
