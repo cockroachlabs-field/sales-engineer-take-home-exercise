@@ -1,4 +1,4 @@
-# Sales Engineer Take-home Excercise
+# Sales Engineer Take-Home Exercise
 v2.0
 
 Thank you for being interested in a position at Cockroach Labs!  As a part of our interview process, we like to have candidates get their hands dirty with the product.  This allows you to get a feel for what it’s like to work with our platform, and it gives us an opportunity to determine where best you will fit in the organization.
