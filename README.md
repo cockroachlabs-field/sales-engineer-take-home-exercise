@@ -16,8 +16,8 @@ You can spend as much time as you’d like working on this exercise, but if you 
 
 ### Extra Credit (examples):
 
-- Demonstrate a complex failure scenario and how the database manages resilience (K8s, multi-cloud, multi-dc, etc)
-- Integrate a 3rd party application of your choice (a BI dashboard, an ETL tool, Monitoring etc) 
+- Demonstrate a complex failure scenario and how the database manages resilience (K8s, multi-cloud, multi-region, multi data center, etc)
+- Integrate a 3rd party application of your choice.  A list support 3rd party applications can be found here: https://www.cockroachlabs.com/docs/stable/third-party-database-tools 
 - Build an app in the language of your choice that uses CRDB as the backend (particularly one not covered by our docs)
 - Anything else you think would highlight your unique skill-set
 - Other ideas for extra credit are included in-line below
@@ -57,14 +57,14 @@ It might also be worth going through at least some of our online tutorials befor
 
 #### Questions to answer:
 - As you were adding and removing nodes from the cluster, how did that impact performance?  What kinds of metrics were you tracking to identify that impact?
-- What other kinds of behavior did you witness as you were changing the cluster topology?  How did the system handle the hard node failure differently than the graceful shutdown?
+- What other kinds of behavior did you witness as you were changing the cluster topology? How did the system handle the hard node failure differently than the graceful shutdown?
 - When you killed all of the nodes but one, what happened to the database?
 - Did the platform behave differently than you would expect in any of the above scenarios?  If so please describe.
 
 ### Executing a Code Example
 
 - Shut down the load generator
-- Scale the database back to at least 3 nodes and execute one of the code examples in the language of your choice (https://www.cockroachlabs.com/docs/stable/hello-world-example-apps.html).
+- Scale the database back to at least 3 nodes and execute one of the code examples in the language of your choice (https://www.cockroachlabs.com/docs/stable/example-apps). 
   - *Extra Credit* Enhance the example to do more than what is demonstrated
 
 ### Present Your Findings
@@ -83,6 +83,5 @@ The format of the presentation should be in alignment with the role for which yo
 ### Useful Links
 
 - Documentation - https://www.cockroachlabs.com/docs/stable/
-- Tutorials - https://www.cockroachlabs.com/docs/stable/training/
 - GitHub - https://github.com/cockroachdb
 - Cockroach University: https://university.cockroachlabs.com/
