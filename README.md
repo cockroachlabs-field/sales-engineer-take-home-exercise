@@ -83,5 +83,6 @@ The format of the presentation should be in alignment with the role for which yo
 ### Useful Links
 
 - Documentation - https://www.cockroachlabs.com/docs/stable/
+- Tutorials - https://www.cockroachlabs.com/docs/stable/why-cockroachdb
 - GitHub - https://github.com/cockroachdb
-- Cockroach University: https://university.cockroachlabs.com/
+- Cockroach University - https://university.cockroachlabs.com/
